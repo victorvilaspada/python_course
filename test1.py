@@ -1,2 +1,3 @@
 nom="victor"
-print(nom)
+nom1="roger"
+print(nom+" "+nom1)
